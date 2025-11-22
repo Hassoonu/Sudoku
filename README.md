@@ -5,6 +5,7 @@ This repo is ____, bcs ____
 ## Learning Objectives:
 
 > Familiarity with Forward-Checking in constrained problems.
+
 > Familiarity with Constraint-Propagation.
 > Design a GUI with pygame or a similar library.
 > Generate a puzzle without generating a solved version to check if the puzzle is uniquly solvable.
